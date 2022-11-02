@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\USER\Codes\_university\sem-5\p-grafkom-no-devcpp\glut-star\build\CMakeFiles\4ce9202411b84a232d227763d89e842e\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{94D51DB5-1C39-36FF-A6F7-8081EC82BAF1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

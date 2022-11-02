@@ -1,0 +1,20 @@
+Detecting compiler hash for triplet x64-windows...
+The following packages will be built and installed:
+    freeglut[core]:x64-windows -> 3.2.2
+  * vcpkg-cmake[core]:x64-windows -> 2022-09-26
+  * vcpkg-cmake-config[core]:x64-windows -> 2022-02-06#1
+Additional packages (*) will be modified to complete this operation.
+Restored 3 package(s) from C:\Users\USER\AppData\Local\vcpkg\archives in 207.9 ms. Use --debug to see more details.
+Installing 1/3 vcpkg-cmake-config:x64-windows...
+Elapsed time to handle vcpkg-cmake-config:x64-windows: 42.46 ms
+Installing 2/3 vcpkg-cmake:x64-windows...
+Elapsed time to handle vcpkg-cmake:x64-windows: 150.3 ms
+Installing 3/3 freeglut:x64-windows...
+Elapsed time to handle freeglut:x64-windows: 170 ms
+
+Total elapsed time: 6.264 s
+The package freeglut is compatible with built-in CMake targets:
+
+    find_package(GLUT REQUIRED)
+    target_link_libraries(main PRIVATE GLUT::GLUT)
+
